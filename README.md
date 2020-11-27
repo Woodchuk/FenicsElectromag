@@ -12,3 +12,9 @@ Monopole2 - Fenics simulation files for a single monopole antenna\
  DualMonopoleConv.py = Mesh converter\
  DualMonopoleInPhase.py = Simulation where even excitation mode is generated\
  DualMonopoleRvePhase.py = Simulation where odd excitation mode is computed\
+
+CoaxWGLaunch - Set of files for simulating coaxial to rectangular waveguide transition\
+CoaxWaveguideTransition.geo = GMSH mesh generator command file\
+CoaxWaveguideTransition.msh = GMSH generated mesh file\
+CoaxWaveguideTransitionConv.py = Mesh converter routine\
+CoaxWGLaunch.py = Fenics simulation of waveguide transition\
