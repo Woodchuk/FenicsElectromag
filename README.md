@@ -1,4 +1,5 @@
 # FenicsElectromag
+These files have been successfully run on a Dell Optiplex 3060 with 4 cores and 32GB of RAM under Ubuntu 18.04
 
 Monopole2 - Fenics simulation files for a single monopole antenna\
  *.geo = GMSH mesh generator command file\
